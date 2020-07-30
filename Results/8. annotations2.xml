@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>8</id>
+      <name>2. Female drinking 5ml thin liquid</name>
+      <size>822</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2020-05-23 13:38:33.356208+00:00</created>
+      <updated>2020-05-26 03:56:11.223597+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>821</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>point</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>8</id>
+          <start>0</start>
+          <stop>821</stop>
+          <url>http://localhost:8080/?id=8</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>suri</username>
+        <email>0924suri@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>720</width>
+        <height>540</height>
+      </original_size>
+    </task>
+    <dumped>2020-05-26 03:58:44.221006+00:00</dumped>
+    <source>2.mp4</source>
+  </meta>
+  <track id="0" label="point">
+    <points frame="0" outside="0" occluded="0" keyframe="1" points="356.70,284.70">
+    </points>
+    <points frame="1" outside="0" occluded="0" keyframe="0" points="356.90,284.83">
+    </points>
+    <points frame="2" outside="0" occluded="0" keyframe="0" points="357.09,284.97">
+    </points>
+    <points frame="3" outside="0" occluded="0" keyframe="0" points="357.29,285.10">
+    </points>
+    <points frame="4" outside="0" occluded="0" keyframe="0" points="357.49,285.24">
+    </points>
+    <points frame="5" outside="0" occluded="0" keyframe="0" points="357.68,285.37">
+    </points>
+    <points frame="6" outside="0" occluded="0" keyframe="0" points="357.88,285.51">
+    </points>
+    <points frame="7" outside="0" occluded="0" keyframe="0" points="358.08,285.64">
+    </points>
+    <points frame="8" outside="0" occluded="0" keyframe="0" points="358.28,285.78">
+    </points>
+    <points frame="9" outside="0" occluded="0" keyframe="0" points="358.47,285.91">
+    </points>
+    <points frame="10" outside="0" occluded="0" keyframe="0" points="358.67,286.04">
+    </points>
+    <points frame="11" outside="0" occluded="0" keyframe="0" points="358.87,286.18">
+    </points>
+    <points frame="12" outside="0" occluded="0" keyframe="0" points="359.06,286.31">
+    </points>
+    <points frame="13" outside="0" occluded="0" keyframe="0" points="359.26,286.45">
+    </points>
+    <points frame="14" outside="0" occluded="0" keyframe="0" points="359.46,286.58">
+    </points>
+    <points frame="15" outside="0" occluded="0" keyframe="0" points="359.65,286.72">
+    </points>
+    <points frame="16" outside="0" occluded="0" keyframe="0" points="359.85,286.85">
+    </points>
+    <points frame="17" outside="0" occluded="0" keyframe="0" points="360.05,286.98">
+    </points>
+    <points frame="18" outside="0" occluded="0" keyframe="0" points="360.24,287.12">
+    </points>
+    <points frame="19" outside="0" occluded="0" keyframe="0" points="360.44,287.25">
+    </points>
+    <points frame="20" outside="0" occluded="0" keyframe="0" points="360.64,287.39">
+    </points>
+    <points frame="21" outside="0" occluded="0" keyframe="0" points="360.83,287.52">
+    </points>
+    <points frame="22" outside="0" occluded="0" keyframe="0" points="361.03,287.66">
+    </points>
+    <points frame="23" outside="0" occluded="0" keyframe="0" points="361.23,287.79">
+    </points>
+    <points frame="24" outside="0" occluded="0" keyframe="0" points="361.43,287.93">
+    </points>
+    <points frame="25" outside="0" occluded="0" keyframe="0" points="361.62,288.06">
+    </points>
+    <points frame="26" outside="0" occluded="0" keyframe="0" points="361.82,288.19">
+    </points>
+    <points frame="27" outside="0" occluded="0" keyframe="0" points="362.02,288.33">
+    </points>
+    <points frame="28" outside="0" occluded="0" keyframe="0" points="362.21,288.46">
+    </points>
+    <points frame="29" outside="0" occluded="0" keyframe="0" points="362.41,288.60">
+    </points>
+    <points frame="30" outside="0" occluded="0" keyframe="0" points="362.61,288.73">
+    </points>
+    <points frame="31" outside="0" occluded="0" keyframe="0" points="362.80,288.87">
+    </points>
+    <points frame="32" outside="0" occluded="0" keyframe="1" points="363.00,289.00">
+    </points>
+    <points frame="33" outside="0" occluded="0" keyframe="0" points="362.93,288.93">
+    </points>
+    <points frame="34" outside="0" occluded="0" keyframe="0" points="362.85,288.85">
+    </points>
+    <points frame="35" outside="0" occluded="0" keyframe="0" points="362.78,288.78">
+    </points>
+    <points frame="36" outside="0" occluded="0" keyframe="0" points="362.70,288.70">
+    </points>
+    <points frame="37" outside="0" occluded="0" keyframe="0" points="362.63,288.63">
+    </points>
+    <points frame="38" outside="0" occluded="0" keyframe="0" points="362.56,288.56">
+    </points>
+    <points frame="39" outside="0" occluded="0" keyframe="0" points="362.48,288.48">
+    </points>
+    <points frame="40" outside="0" occluded="0" keyframe="0" points="362.41,288.41">
+    </points>
+    <points frame="41" outside="0" occluded="0" keyframe="0" points="362.33,288.33">
+    </points>
+    <points frame="42" outside="0" occluded="0" keyframe="0" points="362.26,288.26">
+    </points>
+    <points frame="43" outside="0" occluded="0" keyframe="0" points="362.19,288.19">
+    </points>
+    <points frame="44" outside="0" occluded="0" keyframe="0" points="362.11,288.11">
+    </points>
+    <points frame="45" outside="0" occluded="0" keyframe="0" points="362.04,288.04">
+    </points>
+    <points frame="46" outside="0" occluded="0" keyframe="0" points="361.96,287.96">
+    </points>
+    <points frame="47" outside="0" occluded="0" keyframe="0" points="361.89,287.89">
+    </points>
+    <points frame="48" outside="0" occluded="0" keyframe="0" points="361.81,287.81">
+    </points>
+    <points frame="49" outside="0" occluded="0" keyframe="0" points="361.74,287.74">
+    </points>
+    <points frame="50" outside="0" occluded="0" keyframe="0" points="361.67,287.67">
+    </points>
+    <points frame="51" outside="0" occluded="0" keyframe="0" points="361.59,287.59">
+    </points>
+    <points frame="52" outside="0" occluded="0" keyframe="0" points="361.52,287.52">
+    </points>
+    <points frame="53" outside="0" occluded="0" keyframe="0" points="361.44,287.44">
+    </points>
+    <points frame="54" outside="0" occluded="0" keyframe="0" points="361.37,287.37">
+    </points>
+    <points frame="55" outside="0" occluded="0" keyframe="0" points="361.30,287.30">
+    </points>
+    <points frame="56" outside="0" occluded="0" keyframe="0" points="361.22,287.22">
+    </points>
+    <points frame="57" outside="0" occluded="0" keyframe="0" points="361.15,287.15">
+    </points>
+    <points frame="58" outside="0" occluded="0" keyframe="0" points="361.07,287.07">
+    </points>
+    <points frame="59" outside="0" occluded="0" keyframe="1" points="361.00,287.00">
+    </points>
+    <points frame="60" outside="0" occluded="0" keyframe="0" points="361.12,286.98">
+    </points>
+    <points frame="61" outside="0" occluded="0" keyframe="0" points="361.24,286.96">
+    </points>
+    <points frame="62" outside="0" occluded="0" keyframe="0" points="361.35,286.94">
+    </points>
+    <points frame="63" outside="0" occluded="0" keyframe="0" points="361.47,286.92">
+    </points>
+    <points frame="64" outside="0" occluded="0" keyframe="0" points="361.59,286.90">
+    </points>
+    <points frame="65" outside="0" occluded="0" keyframe="0" points="361.71,286.88">
+    </points>
+    <points frame="66" outside="0" occluded="0" keyframe="0" points="361.82,286.86">
+    </points>
+    <points frame="67" outside="0" occluded="0" keyframe="0" points="361.94,286.84">
+    </points>
+    <points frame="68" outside="0" occluded="0" keyframe="0" points="362.06,286.82">
+    </points>
+    <points frame="69" outside="0" occluded="0" keyframe="0" points="362.18,286.80">
+    </points>
+    <points frame="70" outside="0" occluded="0" keyframe="0" points="362.29,286.78">
+    </points>
+    <points frame="71" outside="0" occluded="0" keyframe="0" points="362.41,286.76">
+    </points>
+    <points frame="72" outside="0" occluded="0" keyframe="0" points="362.53,286.75">
+    </points>
+    <points frame="73" outside="0" occluded="0" keyframe="0" points="362.65,286.73">
+    </points>
+    <points frame="74" outside="0" occluded="0" keyframe="0" points="362.76,286.71">
+    </points>
+    <points frame="75" outside="0" occluded="0" keyframe="0" points="362.88,286.69">
+    </points>
+    <points frame="76" outside="0" occluded="0" keyframe="0" points="363.00,286.67">
+    </points>
+    <points frame="77" outside="0" occluded="0" keyframe="0" points="363.12,286.65">
+    </points>
+    <points frame="78" outside="0" occluded="0" keyframe="0" points="363.24,286.63">
+    </points>
+    <points frame="79" outside="0" occluded="0" keyframe="0" points="363.35,286.61">
+    </points>
+    <points frame="80" outside="0" occluded="0" keyframe="0" points="363.47,286.59">
+    </points>
+    <points frame="81" outside="0" occluded="0" keyframe="0" points="363.59,286.57">
+    </points>
+    <points frame="82" outside="0" occluded="0" keyframe="0" points="363.71,286.55">
+    </points>
+    <points frame="83" outside="0" occluded="0" keyframe="0" points="363.82,286.53">
+    </points>
+    <points frame="84" outside="0" occluded="0" keyframe="0" points="363.94,286.51">
+    </points>
+    <points frame="85" outside="0" occluded="0" keyframe="0" points="364.06,286.49">
+    </points>
+    <points frame="86" outside="0" occluded="0" keyframe="0" points="364.18,286.47">
+    </points>
+    <points frame="87" outside="0" occluded="0" keyframe="0" points="364.29,286.45">
+    </points>
+    <points frame="88" outside="0" occluded="0" keyframe="0" points="364.41,286.43">
+    </points>
+    <points frame="89" outside="0" occluded="0" keyframe="0" points="364.53,286.41">
+    </points>
+    <points frame="90" outside="0" occluded="0" keyframe="0" points="364.65,286.39">
+    </points>
+    <points frame="91" outside="0" occluded="0" keyframe="0" points="364.76,286.37">
+    </points>
+    <points frame="92" outside="0" occluded="0" keyframe="0" points="364.88,286.35">
+    </points>
+    <points frame="93" outside="0" occluded="0" keyframe="0" points="365.00,286.33">
+    </points>
+    <points frame="94" outside="0" occluded="0" keyframe="0" points="365.12,286.31">
+    </points>
+    <points frame="95" outside="0" occluded="0" keyframe="0" points="365.24,286.29">
+    </points>
+    <points frame="96" outside="0" occluded="0" keyframe="0" points="365.35,286.27">
+    </points>
+    <points frame="97" outside="0" occluded="0" keyframe="0" points="365.47,286.25">
+    </points>
+    <points frame="98" outside="0" occluded="0" keyframe="0" points="365.59,286.24">
+    </points>
+    <points frame="99" outside="0" occluded="0" keyframe="0" points="365.71,286.22">
+    </points>
+    <points frame="100" outside="0" occluded="0" keyframe="0" points="365.82,286.20">
+    </points>
+    <points frame="101" outside="0" occluded="0" keyframe="0" points="365.94,286.18">
+    </points>
+    <points frame="102" outside="0" occluded="0" keyframe="0" points="366.06,286.16">
+    </points>
+    <points frame="103" outside="0" occluded="0" keyframe="0" points="366.18,286.14">
+    </points>
+    <points frame="104" outside="0" occluded="0" keyframe="0" points="366.29,286.12">
+    </points>
+    <points frame="105" outside="0" occluded="0" keyframe="0" points="366.41,286.10">
+    </points>
+    <points frame="106" outside="0" occluded="0" keyframe="0" points="366.53,286.08">
+    </points>
+    <points frame="107" outside="0" occluded="0" keyframe="0" points="366.65,286.06">
+    </points>
+    <points frame="108" outside="0" occluded="0" keyframe="0" points="366.76,286.04">
+    </points>
+    <points frame="109" outside="0" occluded="0" keyframe="0" points="366.88,286.02">
+    </points>
+    <points frame="110" outside="0" occluded="0" keyframe="1" points="367.00,286.00">
+    </points>
+    <points frame="111" outside="0" occluded="0" keyframe="0" points="369.75,286.50">
+    </points>
+    <points frame="112" outside="0" occluded="0" keyframe="0" points="372.50,287.00">
+    </points>
+    <points frame="113" outside="0" occluded="0" keyframe="0" points="375.25,287.50">
+    </points>
+    <points frame="114" outside="0" occluded="0" keyframe="1" points="378.00,288.00">
+    </points>
+    <points frame="115" outside="0" occluded="0" keyframe="0" points="378.67,288.33">
+    </points>
+    <points frame="116" outside="0" occluded="0" keyframe="0" points="379.33,288.67">
+    </points>
+    <points frame="117" outside="0" occluded="0" keyframe="1" points="380.00,289.00">
+    </points>
+    <points frame="118" outside="0" occluded="0" keyframe="0" points="381.67,288.67">
+    </points>
+    <points frame="119" outside="0" occluded="0" keyframe="0" points="383.33,288.33">
+    </points>
+    <points frame="120" outside="0" occluded="0" keyframe="1" points="385.00,288.00">
+    </points>
+    <points frame="121" outside="0" occluded="0" keyframe="0" points="385.33,285.67">
+    </points>
+    <points frame="122" outside="0" occluded="0" keyframe="0" points="385.67,283.33">
+    </points>
+    <points frame="123" outside="0" occluded="0" keyframe="1" points="386.00,281.00">
+    </points>
+    <points frame="124" outside="0" occluded="0" keyframe="0" points="386.00,281.00">
+    </points>
+    <points frame="125" outside="0" occluded="0" keyframe="1" points="386.00,281.00">
+    </points>
+    <points frame="126" outside="0" occluded="0" keyframe="0" points="384.67,280.33">
+    </points>
+    <points frame="127" outside="0" occluded="0" keyframe="0" points="383.33,279.67">
+    </points>
+    <points frame="128" outside="0" occluded="0" keyframe="1" points="382.00,279.00">
+    </points>
+    <points frame="129" outside="0" occluded="0" keyframe="0" points="382.00,279.00">
+    </points>
+    <points frame="130" outside="0" occluded="0" keyframe="1" points="382.00,279.00">
+    </points>
+    <points frame="131" outside="0" occluded="0" keyframe="0" points="381.46,279.46">
+    </points>
+    <points frame="132" outside="0" occluded="0" keyframe="0" points="380.92,279.92">
+    </points>
+    <points frame="133" outside="0" occluded="0" keyframe="0" points="380.38,280.38">
+    </points>
+    <points frame="134" outside="0" occluded="0" keyframe="0" points="379.85,280.85">
+    </points>
+    <points frame="135" outside="0" occluded="0" keyframe="0" points="379.31,281.31">
+    </points>
+    <points frame="136" outside="0" occluded="0" keyframe="0" points="378.77,281.77">
+    </points>
+    <points frame="137" outside="0" occluded="0" keyframe="0" points="378.23,282.23">
+    </points>
+    <points frame="138" outside="0" occluded="0" keyframe="0" points="377.69,282.69">
+    </points>
+    <points frame="139" outside="0" occluded="0" keyframe="0" points="377.15,283.15">
+    </points>
+    <points frame="140" outside="0" occluded="0" keyframe="0" points="376.62,283.62">
+    </points>
+    <points frame="141" outside="0" occluded="0" keyframe="0" points="376.08,284.08">
+    </points>
+    <points frame="142" outside="0" occluded="0" keyframe="0" points="375.54,284.54">
+    </points>
+    <points frame="143" outside="0" occluded="0" keyframe="1" points="375.00,285.00">
+    </points>
+    <points frame="144" outside="0" occluded="0" keyframe="0" points="374.60,285.07">
+    </points>
+    <points frame="145" outside="0" occluded="0" keyframe="0" points="374.20,285.13">
+    </points>
+    <points frame="146" outside="0" occluded="0" keyframe="0" points="373.80,285.20">
+    </points>
+    <points frame="147" outside="0" occluded="0" keyframe="0" points="373.40,285.27">
+    </points>
+    <points frame="148" outside="0" occluded="0" keyframe="0" points="373.00,285.33">
+    </points>
+    <points frame="149" outside="0" occluded="0" keyframe="0" points="372.60,285.40">
+    </points>
+    <points frame="150" outside="0" occluded="0" keyframe="0" points="372.20,285.47">
+    </points>
+    <points frame="151" outside="0" occluded="0" keyframe="0" points="371.80,285.53">
+    </points>
+    <points frame="152" outside="0" occluded="0" keyframe="0" points="371.40,285.60">
+    </points>
+    <points frame="153" outside="0" occluded="0" keyframe="0" points="371.00,285.67">
+    </points>
+    <points frame="154" outside="0" occluded="0" keyframe="0" points="370.60,285.73">
+    </points>
+    <points frame="155" outside="0" occluded="0" keyframe="0" points="370.20,285.80">
+    </points>
+    <points frame="156" outside="0" occluded="0" keyframe="0" points="369.80,285.87">
+    </points>
+    <points frame="157" outside="0" occluded="0" keyframe="0" points="369.40,285.93">
+    </points>
+    <points frame="158" outside="0" occluded="0" keyframe="1" points="369.00,286.00">
+    </points>
+    <points frame="159" outside="0" occluded="0" keyframe="0" points="368.96,286.22">
+    </points>
+    <points frame="160" outside="0" occluded="0" keyframe="0" points="368.91,286.43">
+    </points>
+    <points frame="161" outside="0" occluded="0" keyframe="0" points="368.87,286.65">
+    </points>
+    <points frame="162" outside="0" occluded="0" keyframe="0" points="368.83,286.87">
+    </points>
+    <points frame="163" outside="0" occluded="0" keyframe="0" points="368.78,287.09">
+    </points>
+    <points frame="164" outside="0" occluded="0" keyframe="0" points="368.74,287.30">
+    </points>
+    <points frame="165" outside="0" occluded="0" keyframe="0" points="368.70,287.52">
+    </points>
+    <points frame="166" outside="0" occluded="0" keyframe="0" points="368.65,287.74">
+    </points>
+    <points frame="167" outside="0" occluded="0" keyframe="0" points="368.61,287.96">
+    </points>
+    <points frame="168" outside="0" occluded="0" keyframe="0" points="368.57,288.17">
+    </points>
+    <points frame="169" outside="0" occluded="0" keyframe="0" points="368.52,288.39">
+    </points>
+    <points frame="170" outside="0" occluded="0" keyframe="0" points="368.48,288.61">
+    </points>
+    <points frame="171" outside="0" occluded="0" keyframe="0" points="368.43,288.83">
+    </points>
+    <points frame="172" outside="0" occluded="0" keyframe="0" points="368.39,289.04">
+    </points>
+    <points frame="173" outside="0" occluded="0" keyframe="0" points="368.35,289.26">
+    </points>
+    <points frame="174" outside="0" occluded="0" keyframe="0" points="368.30,289.48">
+    </points>
+    <points frame="175" outside="0" occluded="0" keyframe="0" points="368.26,289.70">
+    </points>
+    <points frame="176" outside="0" occluded="0" keyframe="0" points="368.22,289.91">
+    </points>
+    <points frame="177" outside="0" occluded="0" keyframe="0" points="368.17,290.13">
+    </points>
+    <points frame="178" outside="0" occluded="0" keyframe="0" points="368.13,290.35">
+    </points>
+    <points frame="179" outside="0" occluded="0" keyframe="0" points="368.09,290.57">
+    </points>
+    <points frame="180" outside="0" occluded="0" keyframe="0" points="368.04,290.78">
+    </points>
+    <points frame="181" outside="0" occluded="0" keyframe="1" points="368.00,291.00">
+    </points>
+    <points frame="182" outside="0" occluded="0" keyframe="0" points="368.55,291.00">
+    </points>
+    <points frame="183" outside="0" occluded="0" keyframe="0" points="369.09,291.00">
+    </points>
+    <points frame="184" outside="0" occluded="0" keyframe="0" points="369.64,291.00">
+    </points>
+    <points frame="185" outside="0" occluded="0" keyframe="0" points="370.18,291.00">
+    </points>
+    <points frame="186" outside="0" occluded="0" keyframe="0" points="370.73,291.00">
+    </points>
+    <points frame="187" outside="0" occluded="0" keyframe="0" points="371.27,291.00">
+    </points>
+    <points frame="188" outside="0" occluded="0" keyframe="0" points="371.82,291.00">
+    </points>
+    <points frame="189" outside="0" occluded="0" keyframe="0" points="372.36,291.00">
+    </points>
+    <points frame="190" outside="0" occluded="0" keyframe="0" points="372.91,291.00">
+    </points>
+    <points frame="191" outside="0" occluded="0" keyframe="0" points="373.45,291.00">
+    </points>
+    <points frame="192" outside="0" occluded="0" keyframe="1" points="374.00,291.00">
+    </points>
+    <points frame="193" outside="0" occluded="0" keyframe="0" points="374.14,291.00">
+    </points>
+    <points frame="194" outside="0" occluded="0" keyframe="0" points="374.29,291.00">
+    </points>
+    <points frame="195" outside="0" occluded="0" keyframe="0" points="374.43,291.00">
+    </points>
+    <points frame="196" outside="0" occluded="0" keyframe="0" points="374.57,291.00">
+    </points>
+    <points frame="197" outside="0" occluded="0" keyframe="0" points="374.71,291.00">
+    </points>
+    <points frame="198" outside="0" occluded="0" keyframe="0" points="374.86,291.00">
+    </points>
+    <points frame="199" outside="0" occluded="0" keyframe="0" points="375.00,291.00">
+    </points>
+    <points frame="200" outside="0" occluded="0" keyframe="0" points="375.14,291.00">
+    </points>
+    <points frame="201" outside="0" occluded="0" keyframe="0" points="375.29,291.00">
+    </points>
+    <points frame="202" outside="0" occluded="0" keyframe="0" points="375.43,291.00">
+    </points>
+    <points frame="203" outside="0" occluded="0" keyframe="0" points="375.57,291.00">
+    </points>
+    <points frame="204" outside="0" occluded="0" keyframe="0" points="375.71,291.00">
+    </points>
+    <points frame="205" outside="0" occluded="0" keyframe="0" points="375.86,291.00">
+    </points>
+    <points frame="206" outside="0" occluded="0" keyframe="1" points="376.00,291.00">
+    </points>
+    <points frame="207" outside="0" occluded="0" keyframe="0" points="375.90,290.80">
+    </points>
+    <points frame="208" outside="0" occluded="0" keyframe="0" points="375.80,290.60">
+    </points>
+    <points frame="209" outside="0" occluded="0" keyframe="0" points="375.70,290.40">
+    </points>
+    <points frame="210" outside="0" occluded="0" keyframe="0" points="375.60,290.20">
+    </points>
+    <points frame="211" outside="0" occluded="0" keyframe="0" points="375.50,290.00">
+    </points>
+    <points frame="212" outside="0" occluded="0" keyframe="0" points="375.40,289.80">
+    </points>
+    <points frame="213" outside="0" occluded="0" keyframe="0" points="375.30,289.60">
+    </points>
+    <points frame="214" outside="0" occluded="0" keyframe="0" points="375.20,289.40">
+    </points>
+    <points frame="215" outside="0" occluded="0" keyframe="0" points="375.10,289.20">
+    </points>
+    <points frame="216" outside="0" occluded="0" keyframe="1" points="375.00,289.00">
+    </points>
+    <points frame="217" outside="0" occluded="0" keyframe="0" points="374.20,288.80">
+    </points>
+    <points frame="218" outside="0" occluded="0" keyframe="0" points="373.40,288.60">
+    </points>
+    <points frame="219" outside="0" occluded="0" keyframe="0" points="372.60,288.40">
+    </points>
+    <points frame="220" outside="0" occluded="0" keyframe="0" points="371.80,288.20">
+    </points>
+    <points frame="221" outside="0" occluded="0" keyframe="1" points="371.00,288.00">
+    </points>
+    <points frame="222" outside="0" occluded="0" keyframe="1" points="374.00,285.00">
+    </points>
+    <points frame="223" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="224" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="225" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="226" outside="0" occluded="0" keyframe="0" points="378.00,274.00">
+    </points>
+    <points frame="227" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="228" outside="0" occluded="0" keyframe="0" points="378.00,274.00">
+    </points>
+    <points frame="229" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="230" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="231" outside="0" occluded="0" keyframe="0" points="378.00,274.00">
+    </points>
+    <points frame="232" outside="0" occluded="0" keyframe="0" points="378.00,274.00">
+    </points>
+    <points frame="233" outside="0" occluded="0" keyframe="1" points="378.00,274.00">
+    </points>
+    <points frame="234" outside="0" occluded="0" keyframe="1" points="380.00,272.00">
+    </points>
+    <points frame="235" outside="0" occluded="0" keyframe="1" points="384.00,270.00">
+    </points>
+    <points frame="236" outside="0" occluded="0" keyframe="0" points="385.00,270.00">
+    </points>
+    <points frame="237" outside="0" occluded="0" keyframe="1" points="386.00,270.00">
+    </points>
+    <points frame="238" outside="0" occluded="0" keyframe="0" points="386.00,271.89">
+    </points>
+    <points frame="239" outside="0" occluded="0" keyframe="0" points="386.00,273.78">
+    </points>
+    <points frame="240" outside="0" occluded="0" keyframe="0" points="386.00,275.67">
+    </points>
+    <points frame="241" outside="0" occluded="0" keyframe="0" points="386.00,277.56">
+    </points>
+    <points frame="242" outside="0" occluded="0" keyframe="0" points="386.00,279.44">
+    </points>
+    <points frame="243" outside="0" occluded="0" keyframe="0" points="386.00,281.33">
+    </points>
+    <points frame="244" outside="0" occluded="0" keyframe="0" points="386.00,283.22">
+    </points>
+    <points frame="245" outside="0" occluded="0" keyframe="0" points="386.00,285.11">
+    </points>
+    <points frame="246" outside="0" occluded="0" keyframe="1" points="386.00,287.00">
+    </points>
+    <points frame="247" outside="0" occluded="0" keyframe="0" points="385.22,287.56">
+    </points>
+    <points frame="248" outside="0" occluded="0" keyframe="0" points="384.44,288.11">
+    </points>
+    <points frame="249" outside="0" occluded="0" keyframe="0" points="383.67,288.67">
+    </points>
+    <points frame="250" outside="0" occluded="0" keyframe="0" points="382.89,289.22">
+    </points>
+    <points frame="251" outside="0" occluded="0" keyframe="0" points="382.11,289.78">
+    </points>
+    <points frame="252" outside="0" occluded="0" keyframe="0" points="381.33,290.33">
+    </points>
+    <points frame="253" outside="0" occluded="0" keyframe="0" points="380.56,290.89">
+    </points>
+    <points frame="254" outside="0" occluded="0" keyframe="0" points="379.78,291.44">
+    </points>
+    <points frame="255" outside="0" occluded="0" keyframe="1" points="379.00,292.00">
+    </points>
+    <points frame="256" outside="0" occluded="0" keyframe="0" points="378.33,292.17">
+    </points>
+    <points frame="257" outside="0" occluded="0" keyframe="0" points="377.67,292.33">
+    </points>
+    <points frame="258" outside="0" occluded="0" keyframe="0" points="377.00,292.50">
+    </points>
+    <points frame="259" outside="0" occluded="0" keyframe="0" points="376.33,292.67">
+    </points>
+    <points frame="260" outside="0" occluded="0" keyframe="0" points="375.67,292.83">
+    </points>
+    <points frame="261" outside="0" occluded="0" keyframe="1" points="375.00,293.00">
+    </points>
+    <points frame="262" outside="0" occluded="0" keyframe="0" points="374.38,293.12">
+    </points>
+    <points frame="263" outside="0" occluded="0" keyframe="0" points="373.75,293.25">
+    </points>
+    <points frame="264" outside="0" occluded="0" keyframe="0" points="373.12,293.38">
+    </points>
+    <points frame="265" outside="0" occluded="0" keyframe="0" points="372.50,293.50">
+    </points>
+    <points frame="266" outside="0" occluded="0" keyframe="0" points="371.88,293.62">
+    </points>
+    <points frame="267" outside="0" occluded="0" keyframe="0" points="371.25,293.75">
+    </points>
+    <points frame="268" outside="0" occluded="0" keyframe="0" points="370.62,293.88">
+    </points>
+    <points frame="269" outside="0" occluded="0" keyframe="1" points="370.00,294.00">
+    </points>
+    <points frame="270" outside="0" occluded="0" keyframe="0" points="368.00,293.00">
+    </points>
+    <points frame="271" outside="0" occluded="0" keyframe="1" points="366.00,292.00">
+    </points>
+    <points frame="272" outside="0" occluded="0" keyframe="0" points="365.50,292.50">
+    </points>
+    <points frame="273" outside="0" occluded="0" keyframe="1" points="365.00,293.00">
+    </points>
+    <points frame="274" outside="0" occluded="0" keyframe="0" points="364.75,292.75">
+    </points>
+    <points frame="275" outside="0" occluded="0" keyframe="0" points="364.50,292.50">
+    </points>
+    <points frame="276" outside="0" occluded="0" keyframe="0" points="364.25,292.25">
+    </points>
+    <points frame="277" outside="0" occluded="0" keyframe="1" points="364.00,292.00">
+    </points>
+    <points frame="278" outside="0" occluded="0" keyframe="0" points="363.17,291.67">
+    </points>
+    <points frame="279" outside="0" occluded="0" keyframe="0" points="362.33,291.33">
+    </points>
+    <points frame="280" outside="0" occluded="0" keyframe="0" points="361.50,291.00">
+    </points>
+    <points frame="281" outside="0" occluded="0" keyframe="0" points="360.67,290.67">
+    </points>
+    <points frame="282" outside="0" occluded="0" keyframe="0" points="359.83,290.33">
+    </points>
+    <points frame="283" outside="0" occluded="0" keyframe="1" points="359.00,290.00">
+    </points>
+    <points frame="284" outside="0" occluded="0" keyframe="0" points="359.22,290.11">
+    </points>
+    <points frame="285" outside="0" occluded="0" keyframe="0" points="359.44,290.22">
+    </points>
+    <points frame="286" outside="0" occluded="0" keyframe="0" points="359.67,290.33">
+    </points>
+    <points frame="287" outside="0" occluded="0" keyframe="0" points="359.89,290.44">
+    </points>
+    <points frame="288" outside="0" occluded="0" keyframe="0" points="360.11,290.56">
+    </points>
+    <points frame="289" outside="0" occluded="0" keyframe="0" points="360.33,290.67">
+    </points>
+    <points frame="290" outside="0" occluded="0" keyframe="0" points="360.56,290.78">
+    </points>
+    <points frame="291" outside="0" occluded="0" keyframe="0" points="360.78,290.89">
+    </points>
+    <points frame="292" outside="0" occluded="0" keyframe="1" points="361.00,291.00">
+    </points>
+    <points frame="293" outside="0" occluded="0" keyframe="0" points="361.67,291.33">
+    </points>
+    <points frame="294" outside="0" occluded="0" keyframe="0" points="362.33,291.67">
+    </points>
+    <points frame="295" outside="0" occluded="0" keyframe="0" points="363.00,292.00">
+    </points>
+    <points frame="296" outside="0" occluded="0" keyframe="0" points="363.67,292.33">
+    </points>
+    <points frame="297" outside="0" occluded="0" keyframe="0" points="364.33,292.67">
+    </points>
+    <points frame="298" outside="0" occluded="0" keyframe="1" points="365.00,293.00">
+    </points>
+    <points frame="299" outside="0" occluded="0" keyframe="0" points="365.80,293.20">
+    </points>
+    <points frame="300" outside="0" occluded="0" keyframe="0" points="366.60,293.40">
+    </points>
+    <points frame="301" outside="0" occluded="0" keyframe="0" points="367.40,293.60">
+    </points>
+    <points frame="302" outside="0" occluded="0" keyframe="0" points="368.20,293.80">
+    </points>
+    <points frame="303" outside="0" occluded="0" keyframe="1" points="369.00,294.00">
+    </points>
+    <points frame="304" outside="0" occluded="0" keyframe="0" points="368.75,293.88">
+    </points>
+    <points frame="305" outside="0" occluded="0" keyframe="0" points="368.50,293.75">
+    </points>
+    <points frame="306" outside="0" occluded="0" keyframe="0" points="368.25,293.62">
+    </points>
+    <points frame="307" outside="0" occluded="0" keyframe="0" points="368.00,293.50">
+    </points>
+    <points frame="308" outside="0" occluded="0" keyframe="0" points="367.75,293.38">
+    </points>
+    <points frame="309" outside="0" occluded="0" keyframe="0" points="367.50,293.25">
+    </points>
+    <points frame="310" outside="0" occluded="0" keyframe="0" points="367.25,293.12">
+    </points>
+    <points frame="311" outside="0" occluded="0" keyframe="1" points="367.00,293.00">
+    </points>
+    <points frame="312" outside="0" occluded="0" keyframe="0" points="367.05,292.95">
+    </points>
+    <points frame="313" outside="0" occluded="0" keyframe="0" points="367.11,292.89">
+    </points>
+    <points frame="314" outside="0" occluded="0" keyframe="0" points="367.16,292.84">
+    </points>
+    <points frame="315" outside="0" occluded="0" keyframe="0" points="367.22,292.78">
+    </points>
+    <points frame="316" outside="0" occluded="0" keyframe="0" points="367.27,292.73">
+    </points>
+    <points frame="317" outside="0" occluded="0" keyframe="0" points="367.32,292.68">
+    </points>
+    <points frame="318" outside="0" occluded="0" keyframe="0" points="367.38,292.62">
+    </points>
+    <points frame="319" outside="0" occluded="0" keyframe="0" points="367.43,292.57">
+    </points>
+    <points frame="320" outside="0" occluded="0" keyframe="0" points="367.49,292.51">
+    </points>
+    <points frame="321" outside="0" occluded="0" keyframe="0" points="367.54,292.46">
+    </points>
+    <points frame="322" outside="0" occluded="0" keyframe="0" points="367.59,292.41">
+    </points>
+    <points frame="323" outside="0" occluded="0" keyframe="0" points="367.65,292.35">
+    </points>
+    <points frame="324" outside="0" occluded="0" keyframe="0" points="367.70,292.30">
+    </points>
+    <points frame="325" outside="0" occluded="0" keyframe="0" points="367.76,292.24">
+    </points>
+    <points frame="326" outside="0" occluded="0" keyframe="0" points="367.81,292.19">
+    </points>
+    <points frame="327" outside="0" occluded="0" keyframe="0" points="367.86,292.14">
+    </points>
+    <points frame="328" outside="0" occluded="0" keyframe="0" points="367.92,292.08">
+    </points>
+    <points frame="329" outside="0" occluded="0" keyframe="0" points="367.97,292.03">
+    </points>
+    <points frame="330" outside="0" occluded="0" keyframe="0" points="368.03,291.97">
+    </points>
+    <points frame="331" outside="0" occluded="0" keyframe="0" points="368.08,291.92">
+    </points>
+    <points frame="332" outside="0" occluded="0" keyframe="0" points="368.14,291.86">
+    </points>
+    <points frame="333" outside="0" occluded="0" keyframe="0" points="368.19,291.81">
+    </points>
+    <points frame="334" outside="0" occluded="0" keyframe="0" points="368.24,291.76">
+    </points>
+    <points frame="335" outside="0" occluded="0" keyframe="0" points="368.30,291.70">
+    </points>
+    <points frame="336" outside="0" occluded="0" keyframe="0" points="368.35,291.65">
+    </points>
+    <points frame="337" outside="0" occluded="0" keyframe="0" points="368.41,291.59">
+    </points>
+    <points frame="338" outside="0" occluded="0" keyframe="0" points="368.46,291.54">
+    </points>
+    <points frame="339" outside="0" occluded="0" keyframe="0" points="368.51,291.49">
+    </points>
+    <points frame="340" outside="0" occluded="0" keyframe="0" points="368.57,291.43">
+    </points>
+    <points frame="341" outside="0" occluded="0" keyframe="0" points="368.62,291.38">
+    </points>
+    <points frame="342" outside="0" occluded="0" keyframe="0" points="368.68,291.32">
+    </points>
+    <points frame="343" outside="0" occluded="0" keyframe="0" points="368.73,291.27">
+    </points>
+    <points frame="344" outside="0" occluded="0" keyframe="0" points="368.78,291.22">
+    </points>
+    <points frame="345" outside="0" occluded="0" keyframe="0" points="368.84,291.16">
+    </points>
+    <points frame="346" outside="0" occluded="0" keyframe="0" points="368.89,291.11">
+    </points>
+    <points frame="347" outside="0" occluded="0" keyframe="0" points="368.95,291.05">
+    </points>
+    <points frame="348" outside="0" occluded="0" keyframe="1" points="369.00,291.00">
+    </points>
+    <points frame="349" outside="0" occluded="0" keyframe="0" points="368.99,290.96">
+    </points>
+    <points frame="350" outside="0" occluded="0" keyframe="0" points="368.98,290.92">
+    </points>
+    <points frame="351" outside="0" occluded="0" keyframe="0" points="368.96,290.88">
+    </points>
+    <points frame="352" outside="0" occluded="0" keyframe="0" points="368.95,290.84">
+    </points>
+    <points frame="353" outside="0" occluded="0" keyframe="0" points="368.94,290.80">
+    </points>
+    <points frame="354" outside="0" occluded="0" keyframe="0" points="368.93,290.75">
+    </points>
+    <points frame="355" outside="0" occluded="0" keyframe="0" points="368.92,290.71">
+    </points>
+    <points frame="356" outside="0" occluded="0" keyframe="0" points="368.91,290.67">
+    </points>
+    <points frame="357" outside="0" occluded="0" keyframe="0" points="368.89,290.63">
+    </points>
+    <points frame="358" outside="0" occluded="0" keyframe="0" points="368.88,290.59">
+    </points>
+    <points frame="359" outside="0" occluded="0" keyframe="0" points="368.87,290.55">
+    </points>
+    <points frame="360" outside="0" occluded="0" keyframe="0" points="368.86,290.51">
+    </points>
+    <points frame="361" outside="0" occluded="0" keyframe="0" points="368.85,290.47">
+    </points>
+    <points frame="362" outside="0" occluded="0" keyframe="0" points="368.84,290.43">
+    </points>
+    <points frame="363" outside="0" occluded="0" keyframe="0" points="368.82,290.39">
+    </points>
+    <points frame="364" outside="0" occluded="0" keyframe="0" points="368.81,290.35">
+    </points>
+    <points frame="365" outside="0" occluded="0" keyframe="0" points="368.80,290.30">
+    </points>
+    <points frame="366" outside="0" occluded="0" keyframe="0" points="368.79,290.26">
+    </points>
+    <points frame="367" outside="0" occluded="0" keyframe="0" points="368.78,290.22">
+    </points>
+    <points frame="368" outside="0" occluded="0" keyframe="0" points="368.77,290.18">
+    </points>
+    <points frame="369" outside="0" occluded="0" keyframe="0" points="368.75,290.14">
+    </points>
+    <points frame="370" outside="0" occluded="0" keyframe="0" points="368.74,290.10">
+    </points>
+    <points frame="371" outside="0" occluded="0" keyframe="0" points="368.73,290.06">
+    </points>
+    <points frame="372" outside="0" occluded="0" keyframe="0" points="368.72,290.02">
+    </points>
+    <points frame="373" outside="0" occluded="0" keyframe="0" points="368.71,289.98">
+    </points>
+    <points frame="374" outside="0" occluded="0" keyframe="0" points="368.70,289.94">
+    </points>
+    <points frame="375" outside="0" occluded="0" keyframe="0" points="368.68,289.89">
+    </points>
+    <points frame="376" outside="0" occluded="0" keyframe="0" points="368.67,289.85">
+    </points>
+    <points frame="377" outside="0" occluded="0" keyframe="0" points="368.66,289.81">
+    </points>
+    <points frame="378" outside="0" occluded="0" keyframe="0" points="368.65,289.77">
+    </points>
+    <points frame="379" outside="0" occluded="0" keyframe="0" points="368.64,289.73">
+    </points>
+    <points frame="380" outside="0" occluded="0" keyframe="0" points="368.63,289.69">
+    </points>
+    <points frame="381" outside="0" occluded="0" keyframe="0" points="368.61,289.65">
+    </points>
+    <points frame="382" outside="0" occluded="0" keyframe="0" points="368.60,289.61">
+    </points>
+    <points frame="383" outside="0" occluded="0" keyframe="0" points="368.59,289.57">
+    </points>
+    <points frame="384" outside="0" occluded="0" keyframe="0" points="368.58,289.53">
+    </points>
+    <points frame="385" outside="0" occluded="0" keyframe="0" points="368.57,289.49">
+    </points>
+    <points frame="386" outside="0" occluded="0" keyframe="0" points="368.56,289.44">
+    </points>
+    <points frame="387" outside="0" occluded="0" keyframe="0" points="368.54,289.40">
+    </points>
+    <points frame="388" outside="0" occluded="0" keyframe="0" points="368.53,289.36">
+    </points>
+    <points frame="389" outside="0" occluded="0" keyframe="0" points="368.52,289.32">
+    </points>
+    <points frame="390" outside="0" occluded="0" keyframe="0" points="368.51,289.28">
+    </points>
+    <points frame="391" outside="0" occluded="0" keyframe="0" points="368.50,289.24">
+    </points>
+    <points frame="392" outside="0" occluded="0" keyframe="0" points="368.49,289.20">
+    </points>
+    <points frame="393" outside="0" occluded="0" keyframe="0" points="368.47,289.16">
+    </points>
+    <points frame="394" outside="0" occluded="0" keyframe="0" points="368.46,289.12">
+    </points>
+    <points frame="395" outside="0" occluded="0" keyframe="0" points="368.45,289.08">
+    </points>
+    <points frame="396" outside="0" occluded="0" keyframe="0" points="368.44,289.04">
+    </points>
+    <points frame="397" outside="0" occluded="0" keyframe="0" points="368.43,288.99">
+    </points>
+    <points frame="398" outside="0" occluded="0" keyframe="0" points="368.42,288.95">
+    </points>
+    <points frame="399" outside="0" occluded="0" keyframe="0" points="368.40,288.91">
+    </points>
+    <points frame="400" outside="0" occluded="0" keyframe="0" points="368.39,288.87">
+    </points>
+    <points frame="401" outside="0" occluded="0" keyframe="0" points="368.38,288.83">
+    </points>
+    <points frame="402" outside="0" occluded="0" keyframe="0" points="368.37,288.79">
+    </points>
+    <points frame="403" outside="0" occluded="0" keyframe="0" points="368.36,288.75">
+    </points>
+    <points frame="404" outside="0" occluded="0" keyframe="0" points="368.35,288.71">
+    </points>
+    <points frame="405" outside="0" occluded="0" keyframe="0" points="368.33,288.67">
+    </points>
+    <points frame="406" outside="0" occluded="0" keyframe="0" points="368.32,288.63">
+    </points>
+    <points frame="407" outside="0" occluded="0" keyframe="0" points="368.31,288.58">
+    </points>
+    <points frame="408" outside="0" occluded="0" keyframe="0" points="368.30,288.54">
+    </points>
+    <points frame="409" outside="0" occluded="0" keyframe="0" points="368.29,288.50">
+    </points>
+    <points frame="410" outside="0" occluded="0" keyframe="0" points="368.27,288.46">
+    </points>
+    <points frame="411" outside="0" occluded="0" keyframe="0" points="368.26,288.42">
+    </points>
+    <points frame="412" outside="0" occluded="0" keyframe="0" points="368.25,288.38">
+    </points>
+    <points frame="413" outside="0" occluded="0" keyframe="0" points="368.24,288.34">
+    </points>
+    <points frame="414" outside="0" occluded="0" keyframe="0" points="368.23,288.30">
+    </points>
+    <points frame="415" outside="0" occluded="0" keyframe="0" points="368.22,288.26">
+    </points>
+    <points frame="416" outside="0" occluded="0" keyframe="0" points="368.20,288.22">
+    </points>
+    <points frame="417" outside="0" occluded="0" keyframe="0" points="368.19,288.18">
+    </points>
+    <points frame="418" outside="0" occluded="0" keyframe="0" points="368.18,288.13">
+    </points>
+    <points frame="419" outside="0" occluded="0" keyframe="0" points="368.17,288.09">
+    </points>
+    <points frame="420" outside="0" occluded="0" keyframe="0" points="368.16,288.05">
+    </points>
+    <points frame="421" outside="0" occluded="0" keyframe="0" points="368.15,288.01">
+    </points>
+    <points frame="422" outside="0" occluded="0" keyframe="0" points="368.13,287.97">
+    </points>
+    <points frame="423" outside="0" occluded="0" keyframe="0" points="368.12,287.93">
+    </points>
+    <points frame="424" outside="0" occluded="0" keyframe="0" points="368.11,287.89">
+    </points>
+    <points frame="425" outside="0" occluded="0" keyframe="0" points="368.10,287.85">
+    </points>
+    <points frame="426" outside="0" occluded="0" keyframe="0" points="368.09,287.81">
+    </points>
+    <points frame="427" outside="0" occluded="0" keyframe="0" points="368.08,287.77">
+    </points>
+    <points frame="428" outside="0" occluded="0" keyframe="0" points="368.06,287.73">
+    </points>
+    <points frame="429" outside="0" occluded="0" keyframe="0" points="368.05,287.68">
+    </points>
+    <points frame="430" outside="0" occluded="0" keyframe="0" points="368.04,287.64">
+    </points>
+    <points frame="431" outside="0" occluded="0" keyframe="0" points="368.03,287.60">
+    </points>
+    <points frame="432" outside="0" occluded="0" keyframe="0" points="368.02,287.56">
+    </points>
+    <points frame="433" outside="0" occluded="0" keyframe="0" points="368.01,287.52">
+    </points>
+    <points frame="434" outside="0" occluded="0" keyframe="0" points="367.99,287.48">
+    </points>
+    <points frame="435" outside="0" occluded="0" keyframe="0" points="367.98,287.44">
+    </points>
+    <points frame="436" outside="0" occluded="0" keyframe="0" points="367.97,287.40">
+    </points>
+    <points frame="437" outside="0" occluded="0" keyframe="0" points="367.96,287.36">
+    </points>
+    <points frame="438" outside="0" occluded="0" keyframe="0" points="367.95,287.32">
+    </points>
+    <points frame="439" outside="0" occluded="0" keyframe="0" points="367.94,287.27">
+    </points>
+    <points frame="440" outside="0" occluded="0" keyframe="0" points="367.92,287.23">
+    </points>
+    <points frame="441" outside="0" occluded="0" keyframe="0" points="367.91,287.19">
+    </points>
+    <points frame="442" outside="0" occluded="0" keyframe="0" points="367.90,287.15">
+    </points>
+    <points frame="443" outside="0" occluded="0" keyframe="0" points="367.89,287.11">
+    </points>
+    <points frame="444" outside="0" occluded="0" keyframe="0" points="367.88,287.07">
+    </points>
+    <points frame="445" outside="0" occluded="0" keyframe="0" points="367.87,287.03">
+    </points>
+    <points frame="446" outside="0" occluded="0" keyframe="0" points="367.85,286.99">
+    </points>
+    <points frame="447" outside="0" occluded="0" keyframe="0" points="367.84,286.95">
+    </points>
+    <points frame="448" outside="0" occluded="0" keyframe="0" points="367.83,286.91">
+    </points>
+    <points frame="449" outside="0" occluded="0" keyframe="0" points="367.82,286.87">
+    </points>
+    <points frame="450" outside="0" occluded="0" keyframe="0" points="367.81,286.82">
+    </points>
+    <points frame="451" outside="0" occluded="0" keyframe="0" points="367.80,286.78">
+    </points>
+    <points frame="452" outside="0" occluded="0" keyframe="0" points="367.78,286.74">
+    </points>
+    <points frame="453" outside="0" occluded="0" keyframe="0" points="367.77,286.70">
+    </points>
+    <points frame="454" outside="0" occluded="0" keyframe="0" points="367.76,286.66">
+    </points>
+    <points frame="455" outside="0" occluded="0" keyframe="0" points="367.75,286.62">
+    </points>
+    <points frame="456" outside="0" occluded="0" keyframe="0" points="367.74,286.58">
+    </points>
+    <points frame="457" outside="0" occluded="0" keyframe="0" points="367.73,286.54">
+    </points>
+    <points frame="458" outside="0" occluded="0" keyframe="0" points="367.71,286.50">
+    </points>
+    <points frame="459" outside="0" occluded="0" keyframe="0" points="367.70,286.46">
+    </points>
+    <points frame="460" outside="0" occluded="0" keyframe="0" points="367.69,286.42">
+    </points>
+    <points frame="461" outside="0" occluded="0" keyframe="0" points="367.68,286.37">
+    </points>
+    <points frame="462" outside="0" occluded="0" keyframe="0" points="367.67,286.33">
+    </points>
+    <points frame="463" outside="0" occluded="0" keyframe="0" points="367.65,286.29">
+    </points>
+    <points frame="464" outside="0" occluded="0" keyframe="0" points="367.64,286.25">
+    </points>
+    <points frame="465" outside="0" occluded="0" keyframe="0" points="367.63,286.21">
+    </points>
+    <points frame="466" outside="0" occluded="0" keyframe="0" points="367.62,286.17">
+    </points>
+    <points frame="467" outside="0" occluded="0" keyframe="0" points="367.61,286.13">
+    </points>
+    <points frame="468" outside="0" occluded="0" keyframe="0" points="367.60,286.09">
+    </points>
+    <points frame="469" outside="0" occluded="0" keyframe="0" points="367.58,286.05">
+    </points>
+    <points frame="470" outside="0" occluded="0" keyframe="0" points="367.57,286.01">
+    </points>
+    <points frame="471" outside="0" occluded="0" keyframe="0" points="367.56,285.96">
+    </points>
+    <points frame="472" outside="0" occluded="0" keyframe="0" points="367.55,285.92">
+    </points>
+    <points frame="473" outside="0" occluded="0" keyframe="0" points="367.54,285.88">
+    </points>
+    <points frame="474" outside="0" occluded="0" keyframe="0" points="367.53,285.84">
+    </points>
+    <points frame="475" outside="0" occluded="0" keyframe="0" points="367.51,285.80">
+    </points>
+    <points frame="476" outside="0" occluded="0" keyframe="0" points="367.50,285.76">
+    </points>
+    <points frame="477" outside="0" occluded="0" keyframe="0" points="367.49,285.72">
+    </points>
+    <points frame="478" outside="0" occluded="0" keyframe="0" points="367.48,285.68">
+    </points>
+    <points frame="479" outside="0" occluded="0" keyframe="0" points="367.47,285.64">
+    </points>
+    <points frame="480" outside="0" occluded="0" keyframe="0" points="367.46,285.60">
+    </points>
+    <points frame="481" outside="0" occluded="0" keyframe="0" points="367.44,285.56">
+    </points>
+    <points frame="482" outside="0" occluded="0" keyframe="0" points="367.43,285.51">
+    </points>
+    <points frame="483" outside="0" occluded="0" keyframe="0" points="367.42,285.47">
+    </points>
+    <points frame="484" outside="0" occluded="0" keyframe="0" points="367.41,285.43">
+    </points>
+    <points frame="485" outside="0" occluded="0" keyframe="0" points="367.40,285.39">
+    </points>
+    <points frame="486" outside="0" occluded="0" keyframe="0" points="367.39,285.35">
+    </points>
+    <points frame="487" outside="0" occluded="0" keyframe="0" points="367.37,285.31">
+    </points>
+    <points frame="488" outside="0" occluded="0" keyframe="0" points="367.36,285.27">
+    </points>
+    <points frame="489" outside="0" occluded="0" keyframe="0" points="367.35,285.23">
+    </points>
+    <points frame="490" outside="0" occluded="0" keyframe="0" points="367.34,285.19">
+    </points>
+    <points frame="491" outside="0" occluded="0" keyframe="0" points="367.33,285.15">
+    </points>
+    <points frame="492" outside="0" occluded="0" keyframe="0" points="367.32,285.11">
+    </points>
+    <points frame="493" outside="0" occluded="0" keyframe="0" points="367.30,285.06">
+    </points>
+    <points frame="494" outside="0" occluded="0" keyframe="0" points="367.29,285.02">
+    </points>
+    <points frame="495" outside="0" occluded="0" keyframe="0" points="367.28,284.98">
+    </points>
+    <points frame="496" outside="0" occluded="0" keyframe="0" points="367.27,284.94">
+    </points>
+    <points frame="497" outside="0" occluded="0" keyframe="0" points="367.26,284.90">
+    </points>
+    <points frame="498" outside="0" occluded="0" keyframe="0" points="367.25,284.86">
+    </points>
+    <points frame="499" outside="0" occluded="0" keyframe="0" points="367.23,284.82">
+    </points>
+    <points frame="500" outside="0" occluded="0" keyframe="0" points="367.22,284.78">
+    </points>
+    <points frame="501" outside="0" occluded="0" keyframe="0" points="367.21,284.74">
+    </points>
+    <points frame="502" outside="0" occluded="0" keyframe="0" points="367.20,284.70">
+    </points>
+    <points frame="503" outside="0" occluded="0" keyframe="0" points="367.19,284.65">
+    </points>
+    <points frame="504" outside="0" occluded="0" keyframe="0" points="367.18,284.61">
+    </points>
+    <points frame="505" outside="0" occluded="0" keyframe="0" points="367.16,284.57">
+    </points>
+    <points frame="506" outside="0" occluded="0" keyframe="0" points="367.15,284.53">
+    </points>
+    <points frame="507" outside="0" occluded="0" keyframe="0" points="367.14,284.49">
+    </points>
+    <points frame="508" outside="0" occluded="0" keyframe="0" points="367.13,284.45">
+    </points>
+    <points frame="509" outside="0" occluded="0" keyframe="0" points="367.12,284.41">
+    </points>
+    <points frame="510" outside="0" occluded="0" keyframe="0" points="367.11,284.37">
+    </points>
+    <points frame="511" outside="0" occluded="0" keyframe="0" points="367.09,284.33">
+    </points>
+    <points frame="512" outside="0" occluded="0" keyframe="0" points="367.08,284.29">
+    </points>
+    <points frame="513" outside="0" occluded="0" keyframe="0" points="367.07,284.25">
+    </points>
+    <points frame="514" outside="0" occluded="0" keyframe="0" points="367.06,284.20">
+    </points>
+    <points frame="515" outside="0" occluded="0" keyframe="0" points="367.05,284.16">
+    </points>
+    <points frame="516" outside="0" occluded="0" keyframe="0" points="367.04,284.12">
+    </points>
+    <points frame="517" outside="0" occluded="0" keyframe="0" points="367.02,284.08">
+    </points>
+    <points frame="518" outside="0" occluded="0" keyframe="0" points="367.01,284.04">
+    </points>
+    <points frame="519" outside="0" occluded="0" keyframe="1" points="367.00,284.00">
+    </points>
+    <points frame="520" outside="0" occluded="0" keyframe="0" points="366.85,284.00">
+    </points>
+    <points frame="521" outside="0" occluded="0" keyframe="0" points="366.69,284.00">
+    </points>
+    <points frame="522" outside="0" occluded="0" keyframe="0" points="366.54,284.00">
+    </points>
+    <points frame="523" outside="0" occluded="0" keyframe="0" points="366.38,284.00">
+    </points>
+    <points frame="524" outside="0" occluded="0" keyframe="0" points="366.23,284.00">
+    </points>
+    <points frame="525" outside="0" occluded="0" keyframe="0" points="366.08,284.00">
+    </points>
+    <points frame="526" outside="0" occluded="0" keyframe="0" points="365.92,284.00">
+    </points>
+    <points frame="527" outside="0" occluded="0" keyframe="0" points="365.77,284.00">
+    </points>
+    <points frame="528" outside="0" occluded="0" keyframe="0" points="365.62,284.00">
+    </points>
+    <points frame="529" outside="0" occluded="0" keyframe="0" points="365.46,284.00">
+    </points>
+    <points frame="530" outside="0" occluded="0" keyframe="0" points="365.31,284.00">
+    </points>
+    <points frame="531" outside="0" occluded="0" keyframe="0" points="365.15,284.00">
+    </points>
+    <points frame="532" outside="0" occluded="0" keyframe="1" points="365.00,284.00">
+    </points>
+    <points frame="533" outside="0" occluded="0" keyframe="1" points="360.00,285.00">
+    </points>
+    <points frame="534" outside="0" occluded="0" keyframe="1" points="359.00,288.00">
+    </points>
+    <points frame="535" outside="0" occluded="0" keyframe="1" points="355.00,287.00">
+    </points>
+    <points frame="536" outside="0" occluded="0" keyframe="0" points="353.50,288.00">
+    </points>
+    <points frame="537" outside="0" occluded="0" keyframe="1" points="352.00,289.00">
+    </points>
+    <points frame="538" outside="0" occluded="0" keyframe="0" points="352.17,289.17">
+    </points>
+    <points frame="539" outside="0" occluded="0" keyframe="0" points="352.33,289.33">
+    </points>
+    <points frame="540" outside="0" occluded="0" keyframe="0" points="352.50,289.50">
+    </points>
+    <points frame="541" outside="0" occluded="0" keyframe="0" points="352.67,289.67">
+    </points>
+    <points frame="542" outside="0" occluded="0" keyframe="0" points="352.83,289.83">
+    </points>
+    <points frame="543" outside="0" occluded="0" keyframe="1" points="353.00,290.00">
+    </points>
+    <points frame="544" outside="0" occluded="0" keyframe="0" points="354.00,290.12">
+    </points>
+    <points frame="545" outside="0" occluded="0" keyframe="0" points="355.00,290.25">
+    </points>
+    <points frame="546" outside="0" occluded="0" keyframe="0" points="356.00,290.38">
+    </points>
+    <points frame="547" outside="0" occluded="0" keyframe="0" points="357.00,290.50">
+    </points>
+    <points frame="548" outside="0" occluded="0" keyframe="0" points="358.00,290.62">
+    </points>
+    <points frame="549" outside="0" occluded="0" keyframe="0" points="359.00,290.75">
+    </points>
+    <points frame="550" outside="0" occluded="0" keyframe="0" points="360.00,290.88">
+    </points>
+    <points frame="551" outside="0" occluded="0" keyframe="1" points="361.00,291.00">
+    </points>
+    <points frame="552" outside="0" occluded="0" keyframe="0" points="363.75,291.50">
+    </points>
+    <points frame="553" outside="0" occluded="0" keyframe="0" points="366.50,292.00">
+    </points>
+    <points frame="554" outside="0" occluded="0" keyframe="0" points="369.25,292.50">
+    </points>
+    <points frame="555" outside="0" occluded="0" keyframe="1" points="372.00,293.00">
+    </points>
+    <points frame="556" outside="0" occluded="0" keyframe="0" points="374.00,292.00">
+    </points>
+    <points frame="557" outside="0" occluded="0" keyframe="0" points="376.00,291.00">
+    </points>
+    <points frame="558" outside="0" occluded="0" keyframe="0" points="378.00,290.00">
+    </points>
+    <points frame="559" outside="0" occluded="0" keyframe="1" points="380.00,289.00">
+    </points>
+    <points frame="560" outside="0" occluded="0" keyframe="0" points="380.19,288.67">
+    </points>
+    <points frame="561" outside="0" occluded="0" keyframe="0" points="380.38,288.33">
+    </points>
+    <points frame="562" outside="0" occluded="0" keyframe="0" points="380.57,288.00">
+    </points>
+    <points frame="563" outside="0" occluded="0" keyframe="0" points="380.76,287.67">
+    </points>
+    <points frame="564" outside="0" occluded="0" keyframe="0" points="380.95,287.33">
+    </points>
+    <points frame="565" outside="0" occluded="0" keyframe="0" points="381.14,287.00">
+    </points>
+    <points frame="566" outside="0" occluded="0" keyframe="0" points="381.33,286.67">
+    </points>
+    <points frame="567" outside="0" occluded="0" keyframe="0" points="381.52,286.33">
+    </points>
+    <points frame="568" outside="0" occluded="0" keyframe="0" points="381.71,286.00">
+    </points>
+    <points frame="569" outside="0" occluded="0" keyframe="0" points="381.90,285.67">
+    </points>
+    <points frame="570" outside="0" occluded="0" keyframe="0" points="382.10,285.33">
+    </points>
+    <points frame="571" outside="0" occluded="0" keyframe="0" points="382.29,285.00">
+    </points>
+    <points frame="572" outside="0" occluded="0" keyframe="0" points="382.48,284.67">
+    </points>
+    <points frame="573" outside="0" occluded="0" keyframe="0" points="382.67,284.33">
+    </points>
+    <points frame="574" outside="0" occluded="0" keyframe="0" points="382.86,284.00">
+    </points>
+    <points frame="575" outside="0" occluded="0" keyframe="0" points="383.05,283.67">
+    </points>
+    <points frame="576" outside="0" occluded="0" keyframe="0" points="383.24,283.33">
+    </points>
+    <points frame="577" outside="0" occluded="0" keyframe="0" points="383.43,283.00">
+    </points>
+    <points frame="578" outside="0" occluded="0" keyframe="0" points="383.62,282.67">
+    </points>
+    <points frame="579" outside="0" occluded="0" keyframe="0" points="383.81,282.33">
+    </points>
+    <points frame="580" outside="0" occluded="0" keyframe="1" points="384.00,282.00">
+    </points>
+    <points frame="581" outside="0" occluded="0" keyframe="0" points="385.50,282.25">
+    </points>
+    <points frame="582" outside="0" occluded="0" keyframe="0" points="387.00,282.50">
+    </points>
+    <points frame="583" outside="0" occluded="0" keyframe="0" points="388.50,282.75">
+    </points>
+    <points frame="584" outside="0" occluded="0" keyframe="1" points="390.00,283.00">
+    </points>
+    <points frame="585" outside="0" occluded="0" keyframe="0" points="389.69,282.85">
+    </points>
+    <points frame="586" outside="0" occluded="0" keyframe="0" points="389.38,282.69">
+    </points>
+    <points frame="587" outside="0" occluded="0" keyframe="0" points="389.08,282.54">
+    </points>
+    <points frame="588" outside="0" occluded="0" keyframe="0" points="388.77,282.38">
+    </points>
+    <points frame="589" outside="0" occluded="0" keyframe="0" points="388.46,282.23">
+    </points>
+    <points frame="590" outside="0" occluded="0" keyframe="0" points="388.15,282.08">
+    </points>
+    <points frame="591" outside="0" occluded="0" keyframe="0" points="387.85,281.92">
+    </points>
+    <points frame="592" outside="0" occluded="0" keyframe="0" points="387.54,281.77">
+    </points>
+    <points frame="593" outside="0" occluded="0" keyframe="0" points="387.23,281.62">
+    </points>
+    <points frame="594" outside="0" occluded="0" keyframe="0" points="386.92,281.46">
+    </points>
+    <points frame="595" outside="0" occluded="0" keyframe="0" points="386.62,281.31">
+    </points>
+    <points frame="596" outside="0" occluded="0" keyframe="0" points="386.31,281.15">
+    </points>
+    <points frame="597" outside="0" occluded="0" keyframe="1" points="386.00,281.00">
+    </points>
+    <points frame="598" outside="0" occluded="0" keyframe="0" points="386.31,280.88">
+    </points>
+    <points frame="599" outside="0" occluded="0" keyframe="0" points="386.62,280.75">
+    </points>
+    <points frame="600" outside="0" occluded="0" keyframe="0" points="386.94,280.62">
+    </points>
+    <points frame="601" outside="0" occluded="0" keyframe="0" points="387.25,280.50">
+    </points>
+    <points frame="602" outside="0" occluded="0" keyframe="0" points="387.56,280.38">
+    </points>
+    <points frame="603" outside="0" occluded="0" keyframe="0" points="387.88,280.25">
+    </points>
+    <points frame="604" outside="0" occluded="0" keyframe="0" points="388.19,280.12">
+    </points>
+    <points frame="605" outside="0" occluded="0" keyframe="0" points="388.50,280.00">
+    </points>
+    <points frame="606" outside="0" occluded="0" keyframe="1" points="388.81,279.88">
+    </points>
+    <points frame="607" outside="0" occluded="0" keyframe="0" points="389.12,279.75">
+    </points>
+    <points frame="608" outside="0" occluded="0" keyframe="0" points="389.44,279.62">
+    </points>
+    <points frame="609" outside="0" occluded="0" keyframe="0" points="389.75,279.50">
+    </points>
+    <points frame="610" outside="0" occluded="0" keyframe="0" points="390.06,279.38">
+    </points>
+    <points frame="611" outside="0" occluded="0" keyframe="0" points="390.38,279.25">
+    </points>
+    <points frame="612" outside="0" occluded="0" keyframe="0" points="390.69,279.12">
+    </points>
+    <points frame="613" outside="0" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="614" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="615" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="616" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="617" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="618" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="619" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="620" outside="0" occluded="0" keyframe="0" points="391.00,279.00">
+    </points>
+    <points frame="621" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="632" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="651" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="679" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="686" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="688" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+    <points frame="719" outside="1" occluded="0" keyframe="1" points="391.00,279.00">
+    </points>
+  </track>
+</annotations>
